@@ -14,7 +14,7 @@ In this project, I applied 5.8 million Youtube comments dataset of videos about 
   
 <img align="center" src="visualization_outcome/proportion.png" alt="proportion"/>.  
 
-6. **Extracted main topic of comments from pet owner users**, the most important words including "cat", "dog", "like", "cute" which didn't contain much useful information. I also tried added those words to stopwords, but still could not find interesting content words. This part needs further exploration.  
+6. **Extracted main topic of comments from pet owner users**, the most important words including "year", "happy", "dog", "like", "cute" which didn't contain much useful information. In the figure below, I use WordCloud to display some kind of interesting words.  
   
 Here are some high-frequency words in comments from pet owner users:  
 <img align="center" src="visualization_outcome/wordcloud.png" alt="WordCloud"/>.

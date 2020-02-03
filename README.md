@@ -24,12 +24,14 @@ Here are some high-frequency words in comments from pet owner users:
   
 Top creators received the largest number of comments from pet owner users:  
   
-<img align="center" src="visualization_outcome/creator_received_most_comments_from_pet_owner_users.png" alt="Creators with Top number of Comments from Pet Owner Users"/>.
+<img align="center" src="visualization_outcome/bar_plot_most_comment.png" alt="Bar plot most comments"/>.
   
 Creators with top fraction of comments from pet owner users:    
   
-<img align="center" src="visualization_outcome/pet_owner_fraction.png" alt="Creators with Top Fraction of Comments from Pet Owner Users"/>.
-
+<img align="center" src="visualization_outcome/pet_owner_fraction.png" alt="Creators with Top faction of Comments from Pet Owner Users"/>.
+    
 Creators with top positive comments rate:  
   
-<img align="center" src="visualization_outcome/top_positive_comment_rate.png" alt="Creators with top positive comments rate"/>.
+<img align="center" src="visualization_outcome/top_positive_comment_rate.png" alt="Creators with top positive comments rate"/>.  
+  
+<img align="center" src="visualization_outcome/bar_plot_positive_comment_rate.png" alt="Bar plot positive comment rate"/>.

@@ -9,7 +9,7 @@ In this project, I applied 5.8 million Youtube comments dataset of videos about 
 
 2. **Labelled comments which are from pet owner users** (label 1) by keywords like "my dog", "my cat", "I have a kitty" and extracted around 40,000 label 1 data. Added 40,000 label 0 data and splitted them into train and test dataset.
 3. Built pipeline including tokenizer, stopword remover and word2Vec to **transform comments to numeric vector features**.
-4. Trained classification models including Logistic Regression, Random Forest and Gradient Boosting and tuned their parameters via cross validation. Compared these classfication models and obtained the best performance model random forest with 93% accuracy. 
+4. Trained classification models including Logistic Regression, Random Forest and Gradient Boosting and tuned their parameters via cross validation. Compared these classfication models and obtained the best performance model random forest with 0.92 AUC score. 
 5. Applied random forest model to rest data to **classify comments from pet owner users, which were around 18.7% among all**.  
   
 <img align="center" src="visualization_outcome/proportion.png" alt="proportion"/>.  
